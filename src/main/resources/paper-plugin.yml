@@ -1,0 +1,6 @@
+name: DiscountChampionships
+version: '1.0-SNAPSHOT'
+main: me.officiallydragon.discountchampionships.DiscountChampionships
+api-version: '1.20'
+authors: [ OfficiallyDragon ]
+website: https://github.com/OfficiallyDragon/DiscountChampionships
